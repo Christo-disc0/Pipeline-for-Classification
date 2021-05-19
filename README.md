@@ -1,4 +1,4 @@
-" ..Piece together everything you have learned so far into a pipeline for classification!
+DataCamp exercise text: " ..Piece together everything you have learned so far into a pipeline for classification!
 
 Your job in this exercise is to build a pipeline that includes scaling and hyperparameter tuning to classify wine quality.
 
