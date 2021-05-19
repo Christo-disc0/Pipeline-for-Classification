@@ -15,7 +15,7 @@ classification_report,
 accuracy_score. 
 The feature and target variable arrays X and y have also been pre-loaded.
 
-Istryuctions:
+Instructions:
 Setup the pipeline with the following steps:
 Scaling, called 'scaler' with StandardScaler().
 Classification, called 'SVM' with SVC().
