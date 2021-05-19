@@ -1,4 +1,4 @@
-"..Piece together everything you have learned so far into a pipeline for classification!
+" ..Piece together everything you have learned so far into a pipeline for classification!
 
 Your job in this exercise is to build a pipeline that includes scaling and hyperparameter tuning to classify wine quality.
 
@@ -22,6 +22,6 @@ Classification, called 'SVM' with SVC().
 Specify the hyperparameter space using the following notation: 'step_name__parameter_name'. Here, the step_name is SVM, and the parameter_names are C and gamma.
 Create training and test sets, with 20% of the data used for the test set. Use a random state of 21.
 Instantiate GridSearchCV with the pipeline and hyperparameter space and fit it to the training set. Use 3-fold cross-validation (This is the default, so you don't have to specify it).
-Predict the labels of the test set and compute the metrics. 
+Predict the labels of the test set and compute the metrics. "
 
 
